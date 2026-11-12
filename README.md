@@ -9,7 +9,7 @@
 - `assets/portrait.jpg`：个人照片。
 - `files/kaixin-zhang-cv.pdf`：简历 PDF。
 
-将新的 PDF 放入 `files/`，然后在 `index.html` 的“作品与资料”部分增加对应链接，即可展示更多作品。
+教材章节与配套视频更新在 `index.html` 的“著作与讲义”栏目，论文更新在“论文”栏目。公开的 PDF 可放入 `files/`，再在相应栏目添加链接；视频可直接链接到哔哩哔哩。
 
 GitHub Pages 使用 `main` 分支的根目录发布。提交更新后，可在仓库 Actions 页面查看部署进度。
 
